@@ -1,1 +1,2 @@
-subettyn
+#!/bin/bash
+su betty
